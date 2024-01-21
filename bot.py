@@ -1,0 +1,2 @@
+teste = 'ola'
+print(teste);
